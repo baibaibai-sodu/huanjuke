@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/login/login",
+    "pages/user/user",
+    "pages/discover/discover",
+    "pages/small_talk/small_talk"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#3399ff",
+    "navigationBarTitleText": "欢居客",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#3399ff",
+    "backgroundColor": "#fafafa",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "assets/tabbar_icons/shouye.png",
+        "selectedIconPath": "assets/tabbar_icons/shouye-o.png"
+      },{
+        "pagePath": "pages/small_talk/small_talk",
+        "text": "微聊",
+        "iconPath": "assets/tabbar_icons/weiliao.png",
+        "selectedIconPath": "assets/tabbar_icons/weiliao-o.png"
+      },{
+        "pagePath": "pages/discover/discover",
+        "text": "发现",
+        "iconPath": "assets/tabbar_icons/faxian.png",
+        "selectedIconPath": "assets/tabbar_icons/faxian-o.png"
+      },{
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "assets/tabbar_icons/wode.png",
+        "selectedIconPath": "assets/tabbar_icons/wode-o.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

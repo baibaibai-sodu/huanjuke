@@ -1,0 +1,45 @@
+.search_wrap {
+  height: 92rpx;
+  background-color: var(--themeColor);
+}
+.search_wrap .header_logo {
+  position: absolute;
+  line-height: 62rpx;
+  top: 20rpx;
+  left: 20rpx;
+  width: 150rpx;
+}
+.search_wrap .header_input {
+  position: relative;
+  top: 20rpx;
+  left: 200rpx;
+  width: 470rpx;
+  height: 52rpx;
+  line-height: 52rpx;
+  border-radius: 8rpx;
+  background-color: #fff;
+}
+.search_wrap .header_input .header_address {
+  position: absolute;
+}
+.search_wrap .header_input .header_address text {
+  margin: 15rpx;
+  color: black;
+}
+.search_wrap .header_input .header_address .sanjiaoxing {
+  position: absolute;
+  top: 12rpx;
+  margin-left: -10rpx;
+  width: 30rpx;
+}
+.search_wrap .header_input .header_SearchInput {
+  position: absolute;
+  left: 120rpx;
+  color: #ccc;
+}
+.search_wrap .header_kefu {
+  position: absolute;
+  right: 20rpx;
+  top: 25rpx;
+  width: 40rpx;
+}

@@ -1,0 +1,20 @@
+<view class="search_wrap">
+  <!-- 1 logo -->
+  <image class="header_logo" src="../../../../assets/tabbar_icons/logo.png" mode="widthFix" />
+
+  <!-- 2 inpuy -->
+  <view class="header_input">
+    <navigator class="header_address"  url="" open-type="navigate">
+      <text>广州</text>
+      <image class="sanjiaoxing" src="../../../../assets/iconfonts/xiasanjiao.png" mode="widthFix" />
+    </navigator>
+    <navigator class="header_SearchInput"  url="" open-type="navigate">
+      开心挑好房，当然欢居客
+    </navigator>
+  </view>
+
+  <!-- 3 kefu -->
+  <navigator class="" target="" url="" open-type="navigate">
+    <image class="header_kefu" src="../../../../assets/iconfonts/kefu.png" mode="widthFix" />
+  </navigator>
+</view>
