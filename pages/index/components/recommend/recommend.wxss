@@ -1,0 +1,67 @@
+.recommend_wrap {
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  margin-top: -220rpx;
+}
+.recommend_wrap .recommend_title {
+  font-size: 40rpx;
+  font-weight: bold;
+}
+.recommend_wrap .recommend_main {
+  border-bottom: 1rpx solid #ccc;
+}
+.recommend_wrap .recommend_main .recommend_item {
+  padding: 10rpx;
+  overflow: hidden;
+  display: flex;
+  height: 230rpx;
+}
+.recommend_wrap .recommend_main .recommend_item .item_img {
+  width: 250rpx;
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+  margin-right: 30rpx;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info {
+  flex: 1;
+  margin-top: 30rpx;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .name {
+  display: flex;
+  margin-top: 5rpx;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .name .name_label {
+  color: red;
+  background-color: #e0c260;
+  margin-right: 10rpx;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .name text {
+  font-size: 30rpx;
+  font-weight: bold;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .address_area {
+  margin-top: 5rpx;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .address_area text {
+  color: #333;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .price {
+  margin-top: 5rpx;
+  font-size: 28rpx;
+  font-weight: bold;
+  color: #cc3300;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .labels {
+  margin-top: 5rpx;
+  display: flex;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .labels .label_1 {
+  color: #fff;
+  margin-right: 8rpx;
+  background-color: #66cc99;
+}
+.recommend_wrap .recommend_main .recommend_item .item_info .labels .label {
+  color: #666;
+  margin-right: 5rpx;
+  background-color: #dad1d1;
+}

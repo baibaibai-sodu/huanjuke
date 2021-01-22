@@ -1,2 +1,17 @@
-<!--pages/index/components/swiper/swiper.wxml-->
-<text>pages/index/components/swiper/swiper.wxml</text>
+<view class="swiper_wrap">
+  <image class="swiper_left" src="../../../../assets/index_images/toutiao.png" mode="widthFix"></image>
+  <swiper autoplay circular vertical="true">
+    <swiper-item>
+      <text> · 现在的农村别墅都已经这么豪了？简直是迪士尼在逃城堡！</text><br />
+      <text> · 来了！全面商改租，上海先落地！绿地董事长发话了</text>
+    </swiper-item>
+    <swiper-item>
+      <text> · 来了！全面商改租，上海先落地！绿地董事长发话了</text>
+      <text> · 今年想买房的，有3个“坏消息”，做好心理准备！</text>
+    </swiper-item>
+    <swiper-item>
+      <text> · 今年想买房的，有3个“坏消息”，做好心理准备！</text>
+      <text> · 现在的农村别墅都已经这么豪了？简直是迪士尼在逃城堡！</text><br />
+    </swiper-item>
+  </swiper>
+</view>

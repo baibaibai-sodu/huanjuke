@@ -5,16 +5,16 @@
     "pages/user/user",
     "pages/discover/discover",
     "pages/small_talk/small_talk"
-  ],
+  ], 
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#3399ff",
-    "navigationBarTitleText": "欢居客",
-    "navigationBarTextStyle":"white"
-  },
-  "tabBar": {
+    "navigationBarTitleText": "欢居客",    
+    "navigationBarTextStyle":"white" 
+  }, 
+  "tabBar": { 
     "color": "#999",
-    "selectedColor": "#3399ff",
+    "selectedColor": "#3399ff", 
     "backgroundColor": "#fafafa",
     "position": "bottom",
     "borderStyle": "black",
@@ -22,23 +22,23 @@
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "assets/tabbar_icons/shouye.png",
-        "selectedIconPath": "assets/tabbar_icons/shouye-o.png"
+        "iconPath": "assets/tabbar_images/shouye.png",
+        "selectedIconPath": "assets/tabbar_images/shouye-o.png"
       },{
         "pagePath": "pages/small_talk/small_talk",
         "text": "微聊",
-        "iconPath": "assets/tabbar_icons/weiliao.png",
-        "selectedIconPath": "assets/tabbar_icons/weiliao-o.png"
+        "iconPath": "assets/tabbar_images/weiliao.png",
+        "selectedIconPath": "assets/tabbar_images/weiliao-o.png"
       },{
         "pagePath": "pages/discover/discover",
         "text": "发现",
-        "iconPath": "assets/tabbar_icons/faxian.png",
-        "selectedIconPath": "assets/tabbar_icons/faxian-o.png"
+        "iconPath": "assets/tabbar_images/faxian.png",
+        "selectedIconPath": "assets/tabbar_images/faxian-o.png"
       },{
         "pagePath": "pages/user/user",
         "text": "我的",
-        "iconPath": "assets/tabbar_icons/wode.png",
-        "selectedIconPath": "assets/tabbar_icons/wode-o.png"
+        "iconPath": "assets/tabbar_images/wode.png",
+        "selectedIconPath": "assets/tabbar_images/wode-o.png"
       }
     ]
   },

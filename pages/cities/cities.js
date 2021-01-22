@@ -1,4 +1,4 @@
-// pages/index/components/scroll/scroll.js
+// pages/cities/cities.js
 Component({
   /**
    * 组件的属性列表

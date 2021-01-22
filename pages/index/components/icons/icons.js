@@ -18,6 +18,35 @@ Component({
    * 组件的方法列表
    */
   methods: {
-
+    getZhengzu(){
+      wx.navigateTo({
+        url: ''
+      });
+      return;
+    },
+    getHezu(){
+      wx.navigateTo({
+        url: ''
+      });
+      return;
+    },
+    getFabu(){
+      wx.navigateTo({
+        url: ''
+      });
+      return;
+    },
+    getMinsuduanzu(){
+      wx.navigateTo({
+        url: ''
+      });
+      return;
+    },
+    getGongyu(){
+      wx.navigateTo({
+        url: ''
+      });
+      return;
+    }
   }
 })

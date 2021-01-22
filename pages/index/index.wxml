@@ -1,4 +1,13 @@
 <view class="hjk_index">
   <!-- 搜索框 -->
   <search></search>
+
+  <!-- 图标 -->
+  <icons></icons>
+
+  <!-- 竖向滚动 -->
+  <swiper></swiper>
+
+  <!-- 猜你喜欢 -->
+  <recommend></recommend>
 </view>

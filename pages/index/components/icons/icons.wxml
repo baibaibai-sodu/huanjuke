@@ -1,2 +1,24 @@
-<!--pages/index/components/icons/icons.wxml-->
-<text>pages/index/components/icons/icons.wxml</text>
+<view class="icons_wrap ">
+  <view class='icons'>
+    <view class='icon-item' bindtap="getZhengzu">
+      <image src='../../../../assets/index_images/zhengzu.png'></image>
+      <view class='desc'>整租</view>
+    </view>
+    <view class='icon-item' bindtap="getHezu">
+      <image src='../../../../assets/index_images/hezu.png'></image>
+      <view class='desc'>合租</view>
+    </view>
+    <view class='icon-item' bindtap="getFabu">
+      <image src='../../../../assets/index_images/fabu.png'></image>
+      <view class='desc'>发布</view>
+    </view>
+    <view class='icon-item' bindtap="getMinsuduanzu">
+      <image src='../../../../assets/index_images/minsuduanzu.png'></image>
+      <view class='desc'>民宿短租</view>
+    </view>
+    <view class='icon-item' bindtap="getGongyu">
+      <image src='../../../../assets/index_images/gongyu.png'></image>
+      <view class='desc'>公寓</view>
+    </view>
+  </view>
+</view>

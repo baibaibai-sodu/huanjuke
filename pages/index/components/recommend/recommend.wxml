@@ -1,0 +1,126 @@
+<view class="recommend_wrap">
+  <text class="recommend_title">
+    猜你喜欢
+  </text>
+  <view class="recommend_main">
+    <view class="recommend_item">
+      <image class="item_img" src="//pic1.ajkimg.com/display/xinfang/b5cc492ef9aee07f22dd46b41f509465/500x375n.jpg" mode="widthFix"></image>
+      <view class="item_info">
+        <view class="name">
+          <view class="name_label">新盘</view>
+          <text>合盈盈翠雅筑</text>
+        </view>
+        <view class="address_area">
+          <text>增城 荔城 | 建面185-282m²</text>
+        </view>
+        <view class="price">14000元/m²</view>
+        <view class="labels">
+          <view class="label_1">在售</view>
+          <view class="label">住宅</view>
+          <view class="label">低单价</view>
+          <view class="label">南北通透</view>
+        </view>
+      </view>
+    </view>
+
+    <view class="recommend_item">
+      <image class="item_img" src="//pic1.ajkimg.com/display/xinfang/b5cc492ef9aee07f22dd46b41f509465/500x375n.jpg" mode="widthFix"></image>
+      <view class="item_info">
+        <view class="name">
+          <view class="name_label">新盘</view>
+          <text>合盈盈翠雅筑</text>
+        </view>
+        <view class="address_area">
+          <text>增城 荔城 | 建面185-282m²</text>
+        </view>
+        <view class="price">14000元/m²</view>
+        <view class="labels">
+          <view class="label_1">在售</view>
+          <view class="label">住宅</view>
+          <view class="label">低单价</view>
+          <view class="label">南北通透</view>
+        </view>
+      </view>
+    </view>
+
+    <view class="recommend_item">
+      <image class="item_img" src="//pic1.ajkimg.com/display/xinfang/b5cc492ef9aee07f22dd46b41f509465/500x375n.jpg" mode="widthFix"></image>
+      <view class="item_info">
+        <view class="name">
+          <view class="name_label">新盘</view>
+          <text>合盈盈翠雅筑</text>
+        </view>
+        <view class="address_area">
+          <text>增城 荔城 | 建面185-282m²</text>
+        </view>
+        <view class="price">14000元/m²</view>
+        <view class="labels">
+          <view class="label_1">在售</view>
+          <view class="label">住宅</view>
+          <view class="label">低单价</view>
+          <view class="label">南北通透</view>
+        </view>
+      </view>
+    </view>
+
+    <view class="recommend_item">
+      <image class="item_img" src="//pic1.ajkimg.com/display/xinfang/b5cc492ef9aee07f22dd46b41f509465/500x375n.jpg" mode="widthFix"></image>
+      <view class="item_info">
+        <view class="name">
+          <view class="name_label">新盘</view>
+          <text>合盈盈翠雅筑</text>
+        </view>
+        <view class="address_area">
+          <text>增城 荔城 | 建面185-282m²</text>
+        </view>
+        <view class="price">14000元/m²</view>
+        <view class="labels">
+          <view class="label_1">在售</view>
+          <view class="label">住宅</view>
+          <view class="label">低单价</view>
+          <view class="label">南北通透</view>
+        </view>
+      </view>
+    </view>
+
+    <view class="recommend_item">
+      <image class="item_img" src="//pic1.ajkimg.com/display/xinfang/b5cc492ef9aee07f22dd46b41f509465/500x375n.jpg" mode="widthFix"></image>
+      <view class="item_info">
+        <view class="name">
+          <view class="name_label">新盘</view>
+          <text>合盈盈翠雅筑</text>
+        </view>
+        <view class="address_area">
+          <text>增城 荔城 | 建面185-282m²</text>
+        </view>
+        <view class="price">14000元/m²</view>
+        <view class="labels">
+          <view class="label_1">在售</view>
+          <view class="label">住宅</view>
+          <view class="label">低单价</view>
+          <view class="label">南北通透</view>
+        </view>
+      </view>
+    </view>
+
+    <view class="recommend_item">
+      <image class="item_img" src="//pic1.ajkimg.com/display/xinfang/b5cc492ef9aee07f22dd46b41f509465/500x375n.jpg" mode="widthFix"></image>
+      <view class="item_info">
+        <view class="name">
+          <view class="name_label">新盘</view>
+          <text>合盈盈翠雅筑</text>
+        </view>
+        <view class="address_area">
+          <text>增城 荔城 | 建面185-282m²</text>
+        </view>
+        <view class="price">14000元/m²</view>
+        <view class="labels">
+          <view class="label_1">在售</view>
+          <view class="label">住宅</view>
+          <view class="label">低单价</view>
+          <view class="label">南北通透</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

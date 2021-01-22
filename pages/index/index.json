@@ -1,6 +1,9 @@
 {
   "usingComponents": {
-    "search":"../index/components/search/search"
+    "search":"./components/search/search",
+    "icons":"./components/icons/icons",
+    "swiper":"./components/swiper/swiper",
+    "recommend":"./components/recommend/recommend"
   },
   "navigationBarTitleText": "欢居客首页"
 }
