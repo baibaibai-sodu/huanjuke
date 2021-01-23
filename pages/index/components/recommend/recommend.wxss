@@ -56,12 +56,14 @@
   display: flex;
 }
 .recommend_wrap .recommend_main .recommend_item .item_info .labels .label_1 {
+  padding: 0 5rpx;
   color: #fff;
   margin-right: 8rpx;
-  background-color: #66cc99;
+  background-color: #32CD32;
 }
 .recommend_wrap .recommend_main .recommend_item .item_info .labels .label {
+  padding: 0 5rpx;
   color: #666;
   margin-right: 5rpx;
-  background-color: #dad1d1;
+  background-color: #DCDCDC;
 }

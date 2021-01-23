@@ -5,16 +5,16 @@
     "pages/user/user",
     "pages/discover/discover",
     "pages/small_talk/small_talk"
-  ], 
+  ],
   "window":{
-    "backgroundTextStyle":"light",
+    "backgroundTextStyle":"light", 
     "navigationBarBackgroundColor": "#3399ff",
-    "navigationBarTitleText": "欢居客",    
-    "navigationBarTextStyle":"white" 
-  }, 
-  "tabBar": { 
+    "navigationBarTitleText": "欢居客",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
     "color": "#999",
-    "selectedColor": "#3399ff", 
+    "selectedColor": "#3399ff",
     "backgroundColor": "#fafafa",
     "position": "bottom",
     "borderStyle": "black",
@@ -33,7 +33,7 @@
         "pagePath": "pages/discover/discover",
         "text": "发现",
         "iconPath": "assets/tabbar_images/faxian.png",
-        "selectedIconPath": "assets/tabbar_images/faxian-o.png"
+        "selectedIconPath": "assets/tabbar_images/faxian-o.jpg"
       },{
         "pagePath": "pages/user/user",
         "text": "我的",
