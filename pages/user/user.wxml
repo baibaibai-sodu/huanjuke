@@ -1,1 +1,67 @@
-<navigator url="/pages/login/login">登录</navigator>
+<view class="user_head_wrap">
+  <image class="user_image" src="{{userinfo.avatarUrl}}" mode="widthFix"></image>
+  <view class="user_name">{{userinfo.nickName}}</view>
+  <view class="experience_value">LV0 经验值10 > </view>
+</view>
+
+<view class="user_center_wrap">
+  <view class="user_icons_wrap">
+    <view class="icons_image_wrap">
+      <image src="../../assets/user_images/qianbao.png" mode="widthFix"></image>
+    </view>
+    <view class="icons_desc_wrap">
+      <view class="desc">钱包</view>
+      <view class="arrow"> > </view>
+    </view>
+  </view>
+  <view class="user_icons_wrap">
+    <view class="icons_image_wrap">
+      <image src="../../assets/user_images/shoucang.png" mode="widthFix"></image>
+    </view>
+    <view class="icons_desc_wrap">
+      <view class="desc">收藏</view>
+      <view class="arrow"> > </view>
+    </view>
+  </view>
+  <view class="user_icons_wrap">
+    <view class="icons_image_wrap">
+      <image src="../../assets/user_images/guanzhu.png" mode="widthFix"></image>
+    </view>
+    <view class="icons_desc_wrap">
+      <view class="desc">关注</view>
+      <view class="arrow"> > </view>
+    </view>
+  </view>
+  <view class="user_icons_wrap">
+    <view class="icons_image_wrap">
+      <image src="../../assets/user_images/lishijilu.png" mode="widthFix"></image>
+    </view>
+    <view class="icons_desc_wrap">
+      <view class="desc">历史记录</view>
+      <view class="arrow"> > </view>
+    </view>
+  </view>
+  <view class="user_icons_wrap">
+    <view class="icons_image_wrap">
+      <image src="../../assets/user_images/guanzhugongzhonghao.png" mode="widthFix"></image>
+    </view>
+    <view class="icons_desc_wrap">
+      <view class="desc">关注公众号</view>
+      <view class="arrow"> > </view>
+    </view>
+  </view>
+</view>
+
+<view class="user_fenxiang_wrap">
+  <view class="fenxiang_image_wrap">
+    <image src="../../assets/user_images/fenxiang.png" mode="widthFix"></image>
+  </view>
+  <view class="fenxiang_desc_wrap">
+    <view class="desc">分享</view>
+    <view class="arrow"> > </view>
+  </view>
+</view>
+
+<view class="user_footer_wrap">
+  退出登录
+</view>
